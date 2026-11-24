@@ -17,7 +17,7 @@
 <a href="https://drive.google.com/file/d/1CEOYUpNgLFFcfFhFlra1ajdxKystLqNT/view?usp=sharing">
   <img src="https://img.shields.io/badge/📄_View_My_Resume-0077B6?style=for-the-badge" alt="Resume"/>
 </a>
-<a href="mailto:johnsonmadasu@gmail.com">
+<a href="https://johnson049.github.io/">
   <img src="https://img.shields.io/badge/📧_Hire_Me-00B4D8?style=for-the-badge" alt="Hire Me"/>
 </a>
 
