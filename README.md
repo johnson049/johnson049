@@ -85,6 +85,8 @@ Recently I've worked on a cross-technology configuration layer for Wi-Fi and BLE
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -117,11 +119,12 @@ Recently I've worked on a cross-technology configuration layer for Wi-Fi and BLE
 
 ---
 
-### 🚀 Siyonumargam
-<!-- TODO: Replace this line with a one or two sentence description of Siyonumargam, plus its tech stack and repo link -->
-> Add a short description of this project here.
+### 🎵 Siyonu Margam – సీయోను మార్గం
+> A Telugu Christian songs and worship mobile app built with **Flutter**. It includes categorized song collections and albums, an audio player with queue, shuffle and repeat, a Telugu lyrics reader with transliteration and English translation, 12 selectable themes, offline downloads, and daily content. The backend runs on **Supabase** with PostgreSQL and storage for media.
 
-**Tech Stack:** `Add your technologies here`
+**Tech Stack:** `Flutter` `Dart` `Supabase` `PostgreSQL`
+
+[![View Showcase](https://img.shields.io/badge/View_Showcase-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnson049/siyonu-margam-showcase)
 
 ---
 
